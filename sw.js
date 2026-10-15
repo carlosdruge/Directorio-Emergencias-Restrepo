@@ -4,14 +4,14 @@
 // Copyright © 2026 Carlos Ruge
 // Todos los derechos reservados.
 
-const CACHE_NAME = "directorio-emergencias-v1.0";
+const CACHE_NAME = "directorio-emergencias-v1.1";
 
 const urlsToCache = [
   "./",
   "./index.html",
   "./manifest.json",
   "./favicon.webp",
-  "./preview.webp",
+  "./preview.jpg",
   "./herorestrepo.webp",
   "./logobomberos.webp",
   "./logopolicia.webp",
